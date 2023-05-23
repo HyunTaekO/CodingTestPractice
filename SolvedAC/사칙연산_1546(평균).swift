@@ -6,6 +6,3 @@
 //
 
 import Foundation
-
-let N = Int(readLine()!)!
-
