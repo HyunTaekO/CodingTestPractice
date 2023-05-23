@@ -2,10 +2,7 @@
 //  main.swift
 //  SolvedAC
 //
-//  Created by 오현택 on 2023/05/23.
+//  Created by 오현택 on 2023/05/24.
 //
 
 import Foundation
-
-print("Hello, World!")
-
