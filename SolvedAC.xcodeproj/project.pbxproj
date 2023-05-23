@@ -11,6 +11,7 @@
 		52C2DA812A1D36D600566187 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C2DA802A1D36D600566187 /* main.swift */; };
 		52D6E8AE2A1D3FCD0060C15B /* 사칙연산_1001(+-).swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D6E8AD2A1D3FCD0060C15B /* 사칙연산_1001(+-).swift */; };
 		52D6E8B22A1D423A0060C15B /* 구현_2438(별찍기-1).swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D6E8B12A1D423A0060C15B /* 구현_2438(별찍기-1).swift */; };
+		52D6E8B42A1D49FD0060C15B /* 구현_2439(별찍기-2).swift in Sources */ = {isa = PBXBuildFile; fileRef = 52D6E8B32A1D49FD0060C15B /* 구현_2439(별찍기-2).swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		52C2DA802A1D36D600566187 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		52D6E8AD2A1D3FCD0060C15B /* 사칙연산_1001(+-).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "사칙연산_1001(+-).swift"; sourceTree = "<group>"; };
 		52D6E8B12A1D423A0060C15B /* 구현_2438(별찍기-1).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "구현_2438(별찍기-1).swift"; sourceTree = "<group>"; };
+		52D6E8B32A1D49FD0060C15B /* 구현_2439(별찍기-2).swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "구현_2439(별찍기-2).swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +94,7 @@
 			isa = PBXGroup;
 			children = (
 				52D6E8B12A1D423A0060C15B /* 구현_2438(별찍기-1).swift */,
+				52D6E8B32A1D49FD0060C15B /* 구현_2439(별찍기-2).swift */,
 			);
 			name = "구현";
 			path = "구현";
@@ -158,6 +161,7 @@
 				52D6E8B22A1D423A0060C15B /* 구현_2438(별찍기-1).swift in Sources */,
 				52D6E8AE2A1D3FCD0060C15B /* 사칙연산_1001(+-).swift in Sources */,
 				52C2DA7A2A1D00BC00566187 /* 사칙연산_1546(평균).swift in Sources */,
+				52D6E8B42A1D49FD0060C15B /* 구현_2439(별찍기-2).swift in Sources */,
 				52C2DA812A1D36D600566187 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
